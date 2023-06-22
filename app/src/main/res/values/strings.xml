@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">CookLife</string>
+    <string name="home">ホーム</string>
+    <string name="menu">メニュー</string>
+    <string name="list">リスト</string>
+    <string name="option">設定</string>
 </resources>
